@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project": "QA_GURU_19_Gaevskaya_K_jenkins_notifications",
+    "environment": "qa.guru.HW_14",
+    "comment": "Test Notifications",
+    "reportLink": "https://jenkins.autotests.cloud/job/gaevskaya_demoqaJenkinsTests14hw/1/",
+    "language": "en",
+    "allureFolder": "allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "6246605627:AAFyXu4st_P8ukXXxOqf9y5zs6zPrjIQ3gI",
+    "chat": "-594515616",
+    "replyTo": ""
+  }
+}
